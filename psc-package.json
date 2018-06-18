@@ -1,7 +1,7 @@
 {
     "name": "jquery",
     "source": "https://github.com/purescript/package-sets.git",
-    "set": "psc-0.10.1",
+    "set": "psc-0.12.0",
     "depends": [
       "arrays",
       "bifunctors",
@@ -9,15 +9,12 @@
       "control",
       "datetime",
       "distributive",
-      "dom",
-      "eff",
       "either",
       "enums",
       "exceptions",
       "foldable-traversable",
       "foreign",
       "functions",
-      "generics",
       "identity",
       "integers",
       "invariant",
@@ -27,7 +24,6 @@
       "math",
       "maybe",
       "media-types",
-      "monoid",
       "newtype",
       "nonempty",
       "nullable",
@@ -40,6 +36,7 @@
       "transformers",
       "tuples",
       "unfoldable",
-      "unsafe-coerce"
+      "unsafe-coerce",
+      "web-dom"
     ]
 }

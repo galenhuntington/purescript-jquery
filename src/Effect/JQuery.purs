@@ -1,7 +1,7 @@
 -- | This module defines foreign types and functions for working with
 -- | the jQuery library.
 
-module Control.Monad.Eff.JQuery
+module Effect.JQuery
   ( JQuery
   , JQueryEvent
   , Selector

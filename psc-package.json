@@ -1,7 +1,7 @@
 {
     "name": "jquery",
     "source": "https://github.com/purescript/package-sets.git",
-    "set": "psc-0.12.0",
+    "set": "psc-0.13.3",
     "depends": [
       "arrays",
       "bifunctors",

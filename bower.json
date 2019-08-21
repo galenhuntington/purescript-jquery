@@ -20,7 +20,7 @@
     "url": "git://github.com/paf31/purescript-jquery.git"
   },
   "dependencies": {
-    "purescript-effect": "^2.0.0",
+    "purescript-effect": "^2.0.1",
     "purescript-foreign": "^5.0.0"
   },
   "devDependencies": {
